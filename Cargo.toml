@@ -1,0 +1,8 @@
+[package]
+name = "my_bevy_rpg"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.14"
+
